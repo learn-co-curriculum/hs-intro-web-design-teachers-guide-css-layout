@@ -1,16 +1,16 @@
 ### SWABATS
-	***Students will be able to use the box model to create cohesive page layouts***
-	+ HTML - break up a page with divs
-	+ HTML - Understand how to use HTML5 semantic elements - header, footer, nav, etc.
-	+ HTML/CSS - Understand why and how we user Modernizer and Normalize to make sure our code is cross-browser compatible
-	+ CSS - Understand box model and how it is impacted by padding, margin and border
-	+ CSS - Understand cross-browser compatibility and how to use pre-fixes
-	+ CSS - Understand how to use box-sizing property to standardize the box-model across browsers
-	+ CSS - use content overflow property - visible, hidden, scroll, auto
-	+ CSS - understand inline vs. block vs. inline-block element displays
-	+ CSS - understand how to use float and clear properties
-	+ CSS - understand how to apply clearfix solution
-	+ CSS - understand how to use CSS position properties - relative, absolute and fixed
+***Students will be able to use the box model to create cohesive page layouts***
++ HTML - break up a page with divs
++ HTML - Understand how to use HTML5 semantic elements - header, footer, nav, etc.
++ HTML/CSS - Understand why and how we user Modernizer and Normalize to make sure our code is cross-browser compatible
++ CSS - Understand box model and how it is impacted by padding, margin and border
++ CSS - Understand cross-browser compatibility and how to use pre-fixes
++ CSS - Understand how to use box-sizing property to standardize the box-model across browsers
++ CSS - use content overflow property - visible, hidden, scroll, auto
++ CSS - understand inline vs. block vs. inline-block element displays
++ CSS - understand how to use float and clear properties
++ CSS - understand how to apply clearfix solution
++ CSS - understand how to use CSS position properties - relative, absolute and fixed
 
 
 ### Motivation
