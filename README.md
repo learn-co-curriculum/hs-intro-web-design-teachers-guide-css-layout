@@ -20,9 +20,11 @@ Yesterday we used CSS to style the fonts, images and backgrounds of our page. To
 
 ### Lesson Plan 
 + We can break up a page with a generic sort of container called 
+
 ```ruby
 <div></div>
-```. 
+```
+
 We can add classes and ids to these divs to style them however we want. Adding ids and classes is the only way to differentiate these generic div containers.
 
 + HTML5 provides us with some helpful elements that we can use to break up our page and semantically describe what each section is being used for. These are:
