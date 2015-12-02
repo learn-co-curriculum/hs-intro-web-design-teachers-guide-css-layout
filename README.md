@@ -186,3 +186,4 @@ CSS controls the entire layout of our page, and how elements relate to each othe
 
 ### Hints/Hurdles
 + Make sure you are familiar with all the coding examples, or create your own examples before class. Layout can get tricky and CSS elements can compete with each other. It's easy to break things live and not be able to dig yourself out.
+<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-css-layout' data-visibility='hidden'>View this lesson on Learn.co</a>
